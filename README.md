@@ -43,6 +43,7 @@ AI will get better, but right now, it's a tool—not a replacement for your own 
 ## 🕹️ Features
 
 - Real-time analog clock drawing (it ticks!).
+- It works corresponding to the current time in your time zone.
 - Cool dots highlighting 3, 6, 9, and 12.
 - Uses turtle graphics—so it's all drawn in real time.
 - The code is beginner-friendly, but may have some “garbage” (unused variables, long code blocks that could definitely be shorter... you know how it is 😅).
