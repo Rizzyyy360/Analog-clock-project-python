@@ -51,7 +51,7 @@ AI will get better, but right now, it's a tool—not a replacement for your own 
 
 ## 📝 Notes & Acknowledgements
 
-- If you wanna check out the tutorial that helped me get started, it's right [here](https://www.youtube.com/watch?v=FfWpgLFMI7w).
+- If you wanna check out the tutorial that helped me get started, it's right [here]([https://www.youtube.com/watch?v=FfWpgLFMI7w](https://youtu.be/XGf2GcyHPhc)).
 - Special thanks to my stubbornness and a bit of help from AI (with a healthy dose of skepticism).
 
 ---
