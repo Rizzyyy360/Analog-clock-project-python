@@ -15,7 +15,7 @@ Recently, I’ve started to get my hands dirty in the realm of programming again
 ## ⚙️ About the Project
 
 This is a basic Python piece of code that uses the **turtle**, **datetime**, and **math** modules.  
-At first, I was kinda struggling, not gonna lie—so I followed a basic video game dev tutorial on turtle (shoutout to [freeCodeCamp.org's Learn Python by Building 5 Games](https://www.youtube.com/watch?v=FfWpgLFMI7w) on YouTube!). It didn’t solve all my problems, but it gave me the kickstart I needed.
+At first, I was kinda struggling, not gonna lie—so I followed a basic video game dev tutorial on turtle (shoutout to [freeCodeCamp.org's Learn Python by Building 5 Games](https://youtu.be/XGf2GcyHPhc) on YouTube!). It didn’t solve all my problems, but it gave me the kickstart I needed.
 
 The real struggle? THE MATH.  
 Figuring out and managing every single angle for the hands to match the time took most of my time (pun intended).  
